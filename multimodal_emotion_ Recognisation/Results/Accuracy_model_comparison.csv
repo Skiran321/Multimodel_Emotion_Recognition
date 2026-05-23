@@ -1,0 +1,4 @@
+Model,Accuracy,Observation
+Speech Model,99.82,Strong acoustic feature learning
+Text Model,3.56,Weak semantic information in isolated words
+Fusion Model,99.46,Strong multimodal emotional representation
