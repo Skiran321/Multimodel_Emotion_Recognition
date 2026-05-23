@@ -50,17 +50,17 @@ project/
 ├── models/
 │ ├── speech_pipeline/
 │ │ ├── speech_emotion_model.ipynb
-│ │ ├── speech_emotion_model
+│ │ ├── speech_emotion_model.keras
 │ │ 
 │ │
 │ ├── text_pipeline/
 │ │ ├── text_emotion_model.ipynb
-│ │ ├── text_emotion_model
+│ │ ├── text_emotion_model.keras
 │ │ 
 │ │
 │ └── fusion_pipeline/
 │ ├── multimodal_fusion_model.ipynb
-│ ├── fusion_emotion_model
+│ ├── fusion_emotion_model.keras
 │ 
 │
 ├── Results/
