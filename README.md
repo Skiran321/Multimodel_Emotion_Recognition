@@ -80,7 +80,7 @@ If you want to run the complete multimodal emotion recognition pipeline from the
 
 ### 1. Download the Dataset
 
-Download the TESS (Toronto Emotional Speech Set) dataset and extract the dataset folder.
+Download the TESS (Toronto Emotional Speech Set) dataset and extract the dataset folder from Drive.
 
 ---
 
